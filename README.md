@@ -1,36 +1,45 @@
-# Hi, I'm Sebastian Marquez! 🚀
-## Data Engineer | Data Mesh & Lambda Architecture Specialist
+<div align="center">
+  <h1>👋 Hola, soy Sebastian Marquez</h1>
+  <p><strong>Data Engineer | Data Mesh & Lambda Architecture Specialist</strong></p>
 
-[cite_start]Data Engineer con más de 6 años de experiencia construyendo soluciones de datos end-to-end[cite: 6, 9]. [cite_start]Me especializo en transformar objetivos de negocio en infraestructuras técnicas escalables con un enfoque constante en el ROI y la eficiencia operativa[cite: 16].
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</div>
 
-### 🛠️ Core Expertise
-- [cite_start]**Arquitecturas:** Data Mesh (Self-service), Arquitectura Lambda y Patrón Medallion[cite: 7, 8, 24].
-- [cite_start]**Procesamiento:** Batch (Spark) y Tiempo Real (Flink/Kafka)[cite: 8, 26].
-- [cite_start]**Infraestructura:** Despliegue y administración sobre Kubernetes (AKS/GKS)[cite: 25, 27, 38].
+---
 
-### 💻 Tech Stack
-| Categoría | Herramientas |
+### 🚀 Sobre mí
+Data Engineer con más de 6 años de trayectoria construyendo soluciones end-to-end[cite: 6, 9]. Especialista en arquitecturas descentralizadas (**Data Mesh**) y procesamiento híbrido (**Lambda**) en entornos de tiempo real y batch[cite: 7, 8].
+
+### 🛠️ Tech Stack
+* **Cloud:** Azure (ADF, Databricks, AKS), GCP (BigQuery, GKS)[cite: 68].
+* **Procesamiento:** Apache Spark, Flink, Kafka, PySpark[cite: 8, 69, 74].
+* **Orquestación y Ops:** Apache Airflow, Docker, Kubernetes, Git[cite: 15, 69, 70, 72].
+* **Databases:** PostgreSQL, SQL Server, MongoDB, BigQuery[cite: 44, 56, 68, 69].
+
+### 📈 Impacto y Resultados (ROI)
+| Hito | Impacto |
 | :--- | :--- |
-| **Cloud** | [cite_start]Azure (ADF, Databricks, Data Lake), GCP (BigQuery, GKS) [cite: 35, 66, 68] |
-| **Data Processing** | [cite_start]Apache Spark, PySpark, Apache Flink [cite: 69, 74] |
-| **Orchestration** | [cite_start]Apache Airflow [cite: 70] |
-| **Databases** | [cite_start]PostgreSQL, SQL Server, MongoDB, BigQuery [cite: 44, 56, 69] |
-| **Visualization** | [cite_start]Apache Superset, Power BI, Tableau [cite: 70, 71, 72] |
-| **DevOps/Tools** | [cite_start]Docker, Kubernetes, Git, Azure DevOps, Grafana, Prometheus [cite: 69, 72] |
+| **Data Delivery** | Reducción del **90%** en el tiempo de entrega de datos a negocio[cite: 33]. |
+| **Ahorro Operativo** | **$15,000+ anuales** ahorrados mediante optimización de infraestructura Open Source[cite: 41]. |
+| **Eficiencia** | Eliminación de **650 horas anuales** de tareas manuales con Apache Flink[cite: 32]. |
+| **Automatización** | Reducción del **48%** del tiempo operativo mediante integración eficiente[cite: 42]. |
 
-### 🏆 Key Achievements (Impact & ROI)
-- [cite_start]⚡ **Data Delivery:** Reduje en un **90%** el tiempo de entrega de datos mediante un modelo Data Mesh de autoservicio[cite: 33].
-- [cite_start]💰 **Cost Optimization:** Generé ahorros superiores a **$15,000 anuales** al sustituir Power BI por soluciones open-source (Apache Superset)[cite: 41].
-- [cite_start]🤖 **Automation:** Eliminé **650 horas anuales** de trabajo manual mediante la automatización de procesos con Apache Flink[cite: 32].
-- [cite_start]📈 **Performance:** Reduje en un **48%** el tiempo operativo dedicado a tareas manuales generales[cite: 42].
+### 🎓 Certificaciones Destacadas
+* **Databricks Fundamentals** (2025)[cite: 82].
+* **Kubernetes Administrator** (2025)[cite: 83].
+* **Azure Data Engineering Specialization** (2024)[cite: 86].
 
-### 📜 Featured Certifications
-- [cite_start]**Databricks Fundamentals** (2025) [cite: 82]
-- [cite_start]**Administrador de Kubernetes** (2025) [cite: 83]
-- [cite_start]**Especialización en Ingeniería de Datos Azure** (2024) [cite: 86]
-- [cite_start]**Google Data Analytics** (2024) [cite: 88]
+### 📫 Conectemos
+<p align="left">
+<a href="https://www.linkedin.com/in/sebastian-marquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sebastian Marquez" height="30" width="40" /></a>
+<a href="mailto:sebas.mar062699@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+</p>
 
-### 📫 Get in Touch
-- [cite_start]📧 **Email:** sebas.mar062699@gmail.com [cite: 4]
-- [cite_start]💼 **LinkedIn:** [in/Sebastian Marquez](https://www.linkedin.com/in/sebastian-marquez) [cite: 5]
-- [cite_start]📍 **Location:** Lima, Perú [cite: 4]
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
