@@ -19,7 +19,7 @@ Ingeniero especializado en transformar objetivos de negocio en arquitecturas des
 ### 🛠️ Ecosistema Técnico
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,azure,gcp,postgres,mongodb,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,apache,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,fastapi,git,linux" />
 </p>
 
 **Stack Principal:**
